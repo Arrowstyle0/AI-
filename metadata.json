@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Chat",
+  "description": "A modern, responsive chat application powered by the Gemini API, featuring real-time streaming responses for a natural conversational experience.",
+  "requestFramePermissions": []
+}
